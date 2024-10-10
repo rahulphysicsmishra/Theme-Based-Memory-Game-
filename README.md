@@ -4,7 +4,7 @@ Welcome to the **Memory Game**! This is a fun and challenging game where players
 
 ## 🎥 Demo
 
-Check out the live gameplay here: [YouTube Video](#) <[!-- Add your YouTube link here --](https://youtu.be/yIM-pBjg3j4)>
+Check out the live gameplay here: [YouTube Video](#) (https://youtu.be/yIM-pBjg3j4)
 
 ## 🚀 How It Works
 
